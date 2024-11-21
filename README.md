@@ -19,10 +19,10 @@ Healthy Plates is built using modern Android development practices and technolog
 
 ## 🚀 Screenshots  
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/90e4bfdc-3285-4f3b-bb7e-b15af630dba8" alt="Screenshot 1" width="225">
-  <img src="https://github.com/user-attachments/assets/ab66fff7-565d-4ec9-b72a-01bbbe70753c" alt="Screenshot 2" width="225">
-  <img src="https://github.com/user-attachments/assets/a189ea99-b5f1-4033-bc7c-3c87be81493e" alt="Screenshot 3" width="225">
-  <img src="https://github.com/user-attachments/assets/aac586d1-148e-4e02-a380-7cf9a863dafb" alt="Screenshot 4" width="225">
+  <img src="https://github.com/user-attachments/assets/90e4bfdc-3285-4f3b-bb7e-b15af630dba8" alt="Screenshot 1" width="200">
+  <img src="https://github.com/user-attachments/assets/ab66fff7-565d-4ec9-b72a-01bbbe70753c" alt="Screenshot 2" width="200">
+  <img src="https://github.com/user-attachments/assets/a189ea99-b5f1-4033-bc7c-3c87be81493e" alt="Screenshot 3" width="200">
+  <img src="https://github.com/user-attachments/assets/aac586d1-148e-4e02-a380-7cf9a863dafb" alt="Screenshot 4" width="200">
 </p>
 
 ## 📚 API Reference  
