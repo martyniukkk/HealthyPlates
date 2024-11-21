@@ -1,7 +1,6 @@
 package com.themeal.app.presentation.activity
 
 import android.os.Bundle
-import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
 import com.themeal.app.R
 import com.themeal.app.presentation.fragment.meal.MealFragment
@@ -16,7 +15,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         viewModel.currentFragment.observe(this) { fragment ->
-            Log.d("mLog", (fragment is MealFragment).toString())
             NavigationHelper.goToFragment(
                 fragment = fragment,
                 fragmentManager = supportFragmentManager,
