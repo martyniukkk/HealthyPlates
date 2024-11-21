@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Healthy Plates</string>
+    <string name="back_button">Back button</string>
+    <string name="youtube_watch_button">YouTube watch button</string>
+    <string name="save_meal_button">Save meal button</string>
+    <string name="meal_image">Meal image</string>
+    <string name="title">Title</string>
+    <string name="category">Category:</string>
+    <string name="area">Area:</string>
+    <string name="instructions">Instructions</string>
+    <string name="instructions_description">Instructions description</string>
+    <string name="about_item_image">About item image</string>
+    <string name="about_content">About content</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="delicious_meal">Delicious meal</string>
+    <string name="empty">Empty</string>
+    <string name="continue_str">Continue</string>
+</resources>

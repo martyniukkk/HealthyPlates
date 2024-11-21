@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.HealthyPlates" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:forceDarkAllowed" tools:targetApi="q">false</item>
+        <item name="colorPrimary">#4CAF50</item> <!-- Light green -->
+        <item name="colorPrimaryVariant">#388E3C</item> <!-- Darker green for variants -->
+        <item name="colorOnPrimary">#FFFFFF</item> <!-- White text on primary -->
+        <item name="colorSecondary">#FFEB3B</item> <!-- Light yellow -->
+        <item name="colorSecondaryVariant">#FBC02D</item> <!-- Darker yellow -->
+        <item name="colorOnSecondary">#212121</item> <!-- Dark gray for text on yellow -->
+        <item name="colorAccent">@color/primary</item> <!-- Light coral for accent -->
+        <item name="android:statusBarColor">@color/black</item>
+    </style>
+</resources>
