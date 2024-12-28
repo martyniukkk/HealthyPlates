@@ -29,7 +29,7 @@ Healthy Plates is built using modern Android development practices and technolog
 This app utilizes [TheMealDB API](https://www.themealdb.com/) for fetching meal data, including recipes, ingredients, and video links.  
 
 ## ⚙️ Installation  
-1. Clone the repository: `git clone https://github.com/martunyuk/HealthyPlates.git`
+1. Clone the repository: `git clone https://github.com/martyniukkk/HealthyPlates.git`
 2. Open the project in Android Studio.
 3. Sync Gradle to download dependencies.
 4. Run the app on your emulator or physical device.
